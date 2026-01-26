@@ -10,4 +10,4 @@ This repository demonstrates:
 - Azure deployment & CI/CD
 - React frontend integration (later phase)
 
-Progress will be built incrementally with clear milestones.
+Progress will be built incrementally with clear milestones .
